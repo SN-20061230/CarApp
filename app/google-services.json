@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "172218562009",
+    "firebase_url": "https://carappcompose-4d743-default-rtdb.firebaseio.com",
+    "project_id": "carappcompose-4d743",
+    "storage_bucket": "carappcompose-4d743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172218562009:android:e678d4512601e08ef515c8",
+        "android_client_info": {
+          "package_name": "com.example.carappcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNFxngmtRI0SwQv8bPkJtdDUucZpoOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172218562009:android:a79232e879f1cc03f515c8",
+        "android_client_info": {
+          "package_name": "uz.sardor.carapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNFxngmtRI0SwQv8bPkJtdDUucZpoOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
